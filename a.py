@@ -1,4 +1,4 @@
-# em chỉ nói với anh câu này thôi em có sai với ai đi nữa, em có làm cái gì đi nữa nếu có phải trả giá, em cũng xin chấp nhận.
+# Em chỉ nói với anh câu này thôi em có sai với ai đi nữa, em có làm cái gì đi nữa nếu có phải trả giá, em cũng xin chấp nhận.
 # Bởi vì anh, anh biết đấy ra xã hội làm ăn bươn chải liều thì ăn nhiều, không liều thì ăn ít.
 # Muốn thành công thì phải chấp nhận trải qua đắng cay ngọt bùi, làm ăn muốn kiếm được tiền phải chấp nhận mạo hiểm, nguy hiểm một tý nhưng trong tầm kiểm soát, anh hiểu chưa.
 # Xã hội này, chỉ có làm chịu khó cần cù thì bù siêng năng, chỉ có làm thì mới có ăn, những cái loại không làm mà đòi có ăn thì ăn ĐẦU BUỒI, ăn CỨT. Thế cho nó dễ
@@ -8,3 +8,5 @@
 # Những người có tiền không phải người ta ngu đâu, không phải người ta thừa tiền đâu. Người ta coi mình quan trọng hơn tiền bạc, người ta mới giúp mình lúc khó khăn lúc khổ.
 # Còn, anh em bạn bè chơi với nhau có ăn thì tìm dến, có lồn! À có đòn thì tìm đi, những cái loại đấy là anh em mà anh anh. Ối dồi ôi, nhá!
 # Đúng rồi anh em ạ, cuộc sống thì không giống cuộc đời.
+
+# @thanhmoideptraivcl
