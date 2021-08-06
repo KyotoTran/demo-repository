@@ -6,4 +6,4 @@ if age > 18:
 else:
     print('You are not over 18 years old')
 
-# @thanhmoideptraivaidai
+# @thanhmoideptraivcl
