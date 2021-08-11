@@ -1,9 +1,5 @@
-yearOfBirth = int(input('What is your year of birth: '))
-age = 2021 - yearOfBirth
+mess = input('Type your message at here: ')
+print(mess)
 
-if age > 18:
-    print('You are over 18 years old')
-else:
-    print('You are not over 18 years old')
 
-# @thanhmoideptraivcl
+# hahahahahhahahahaha
